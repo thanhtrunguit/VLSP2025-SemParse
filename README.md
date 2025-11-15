@@ -8,10 +8,10 @@
 <h1 align="center"><b>VLSP2025-SemParse</b></h1>
 ---
 ## UIT_BlackCoffe Members
-* Ngô Thành Trung 
+* Ngô Thành Trung
 * Trịnh Quốc Bảo
 * Đinh Nhật Trường
-* Correspondence: Nguyễn Đức Vũ 
+* Correspondence: Nguyễn Đức Vũ
 
 ---
 ## VLSP 2025 Challenge on Semantic Parsing
