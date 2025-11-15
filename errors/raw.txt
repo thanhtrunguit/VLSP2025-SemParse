@@ -1,0 +1,7 @@
+#::snt Đồng_bạc , làm gì đến thế ?.
+(vv140làm / làm
+    :agent(vv140họ / họ)
+    :tense(vv140đã / đã)
+    :theme(vv140điều / điều
+        :mod(vv140đó / đó))
+    :cause(vv140amr-unknown / amr-unknown))

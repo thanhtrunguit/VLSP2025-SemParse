@@ -1,0 +1,15 @@
+#::snt vì sao họ đã làm điều đó ?
+(l / làm
+    :agent(h / họ)
+    :tense(đ / đã)
+    :theme(đ1 / điều
+        :mod(đ2 / đó))
+    :cause(a / amr-unknown))
+
+
+
+
+
+
+
+
