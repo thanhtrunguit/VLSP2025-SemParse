@@ -46,6 +46,7 @@ With this pipeline, we achieved the **highest scores on both the Public and Priv
 
 Our best model (finetuned Qwen3) is available at [ICTuniverse/VLSP2025-SemParse](https://huggingface.co/ICTuniverse/VLSP2025-SemParse).
 
+Our report paper is available at [2025.vlsp-1.34](https://aclanthology.org/2025.vlsp-1.34/)
 
 ---
 ## Task Description
